@@ -1,0 +1,19 @@
+{
+  "name": "asdfghjkl",
+  "version": "1.0.0",
+  "description": "Hello Aloha~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YKK101/asdfghjkl.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YKK101/asdfghjkl/issues"
+  },
+  "homepage": "https://github.com/YKK101/asdfghjkl#readme"
+}
